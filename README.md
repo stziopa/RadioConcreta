@@ -1,6 +1,4 @@
-Radio Concreta
-2025
-Stefano Manconi
+# Radio Concreta
 
 Premio Nazionale delle Arti - XIX edizione
 Sezione Interpretazione Musicale
