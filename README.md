@@ -7,6 +7,6 @@ Categoria D: Installazioni Sonore d’Arte
 Sassari, 13-14 novembre 2025
 
 
-Questo repository contiene il codice sorgente, i modelli 3d e la documentazione tecnica dell'installazione sonora "Radio Concreta".
+The repository contains source code, 3d models and data sheets of the sound installation "Radio Concreta".
 
-Repository in aggiornamento, ultima modifica: 2025-11-13
+Repository in progress, last update: 2025-11-13
