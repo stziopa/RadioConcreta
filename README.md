@@ -37,7 +37,7 @@ further accentuated by the precarious
 nature of the transmission medium.
 
 
-
+![alt text](src/img/installation_view.jpg "Installation view")
 
 The repository contains source code, 3d models and data sheets.
 
